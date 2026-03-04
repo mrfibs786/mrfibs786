@@ -3,7 +3,10 @@ My name is Brian and I am an audio engineer, music producer, and trader.
 
 I write about various markets and trade ideas. I also have a passion for cloud, math, and technology.
 
-I'm currently learning about Machine Learning in Finance, Cloud, and AI.
+I'm currently learning about cloud computing through [Learn to Cloud](https://learntocloud.guide) curriculum.
+
+## About Me
+🌱 Currently learning: Cloud fundamentals & Linux
 
 I have a pet cavapoo named Churri. I spend free time making music, reading, and writing.
 Manchester City and Mets fan!!!
